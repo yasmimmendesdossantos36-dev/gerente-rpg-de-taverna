@@ -33,5 +33,5 @@ Em desenvolvimento.
 
 ## 👥 Autores
 
-- Seu nome
-- Nome dos demais integrantes
+- João Vitor
+- Yasmim
